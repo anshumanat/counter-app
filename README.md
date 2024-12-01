@@ -10,6 +10,7 @@ Increment: Increases the counter value by 1.
 Decrement: Decreases the counter value by 1.
 Responsive Design: The app is styled with Tailwind CSS to ensure it looks great on all screen sizes.
 
+
 Technologies Used:
 HTML: For the structure of the app.
 CSS (Tailwind): For styling and responsive layout.
