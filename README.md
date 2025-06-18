@@ -1,4 +1,4 @@
-# Counter App **(Increment & Decrement)**
+# Counter App **(Increment & Decrement)** 
  
 This is a simple counter application built using **HTML**, **CSS (Tailwind)**, and **JavaScript**. 
 The app allows users to increment or decrement a displayed number by clicking the corresponding buttons.   
